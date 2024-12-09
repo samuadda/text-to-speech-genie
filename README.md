@@ -9,12 +9,17 @@
 - **Animated Background:** Enjoy a visually appealing background animation.
 
 ## Usage
-1. Enter Text: Type the text you want to convert into speech into the provided text area.
-2. Select Voice: Choose a voice from the dropdown menu.
-3. Listen: Click the "Listen" button to hear the text read aloud.
+1. get a copy of this repository on your local machine, by running the following command:
+```bash
+git clone https://github.com/samuadda/text-to-speech-genie.git
 
-## CSS Styles
-The application features an animated gradient background for a dynamic visual experience. The gradient transitions between multiple colors, and the styles are applied to ensure a clean and modern look.
+```
+2. Then navigate to the project directory.
+```bash
+cd text-to-speech-genie
+```
+3. Open the index.html file in your preferred browser and it is ready to use
 
-##JavaScript Functionality
-The JavaScript file uses the SpeechSynthesisUtterance API to handle text-to-speech conversion. It populates the voice selection dropdown with available voices and handles user interactions to provide a seamless experience.
+## Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
+
