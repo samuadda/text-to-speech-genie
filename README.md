@@ -1,25 +1,97 @@
-# Text to Speech Genie
+# 🎧 Text to Speech Genie
 
-**Text to Speech Genie** is a web application that allows users to convert text into speech. With a sleek design and customizable voice options, it provides an intuitive way to listen to written content. The application uses the Web Speech API's SpeechSynthesis interface to achieve text-to-speech functionality.
+**Text to Speech Genie** is a simple and elegant web application that converts written text into spoken audio using the **Web Speech API (SpeechSynthesis)**.  
+The goal of this project was to practice DOM manipulation, event handling, and browser-based APIs while designing a clean and minimal UI.
 
-## Features
+---
 
-- **Text-to-Speech Conversion:** Input text and listen to it spoken aloud.
-- **Voice Selection:** Choose from available voices the browser provides.
-- **Animated Background:** Enjoy a visually appealing background animation.
+## 🌟 Preview
 
-## Usage
-1. get a copy of this repository on your local machine, by running the following command:
+<img src="assests/genie-demo.png" width="800" />
+
+*(Replace with correct file path if needed)*
+
+---
+
+## 🌐 Live Demo
+
+You can view the live version on GitHub Pages:
+
+**Live Demo:**  
+*(https://samuadda.github.io/text-to-speech-genie/)*
+
+## 📌 Features
+
+- 🔊 **Text-to-Speech Conversion**  
+  Type any text and instantly listen to it spoken aloud.
+
+- 🎙️ **Voice Selection**  
+  Choose from the available system/browser voices.
+
+- 🎨 **Modern UI + Animated Background**  
+  Smooth gradient background and clean layout.
+
+- ⚡ **Instant Playback**  
+  No backend or server needed—runs entirely in the browser.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **Web Speech API – SpeechSynthesis**
+- **Responsive design fundamentals**
+
+---
+
+## 📂 Folder Structure
+```
+text-to-speech-genie/
+├── css/
+│ └── style.css
+├── js/
+│ └── main.js
+├── images/
+│ └── (UI assets or backgrounds)
+├── index.html
+└── README.md
+```
+
+---
+
+## 🚀 How to Use
+
+Clone the repository:
+
 ```bash
 git clone https://github.com/samuadda/text-to-speech-genie.git
-
 ```
-2. Then navigate to the project directory.
-```bash
+Navigate into the folder:
+```
 cd text-to-speech-genie
-```
-3. Open the index.html file in your preferred browser and it is ready to use
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
+```
+
+Open the project:
+
+Simply double-click index.html
+
+Or serve it with any live server extension
+
+The app will work immediately—no build steps required.
+
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo, open issues, or submit pull requests.
+
+
+## 📬 Contact
+
+Twitter(X) : [@samuadda](https://x.com/samuadda)
+
+LinkedIn: [Saddiq Musa](https://www.linkedin.com/in/saddiq-daut/)
 
